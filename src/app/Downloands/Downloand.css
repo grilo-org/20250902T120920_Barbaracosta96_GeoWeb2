@@ -1,0 +1,89 @@
+.titulo2 {
+    margin-top: 95px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: outset;
+    color: #4CAF50;
+
+}
+.titulo3 {
+    margin-top: 95px;
+      
+    padding: 10% 5% ;
+   
+    color: #4CAF50;
+
+}
+
+.DivText {
+    height: 50px;
+    margin-top: 3%;
+    text-align: left;
+    margin-left: 0%;
+
+}
+.objnome{
+ 
+    text-align: left;
+    margin-left: 10%;
+    color: #4CAF50;
+    font-size: 20px;
+  
+}
+.btnDownload {
+    background-color: white; 
+    color: black;
+    border: 2px solid #4CAF50;
+    font-size: 14px;
+    padding: 4px 20px;
+    margin-left: 8%;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+    
+}
+.btnDownload:hover {
+    margin-top: 0px;
+    color: #ffffff;
+    background-color: #4CAF50;
+    border: none;
+    padding: 4px 20px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 8%;
+    border: 2px  solid #0000;
+    border-radius: 5px;
+    
+
+}
+.imageIcon{
+  
+    margin-left: 3%;
+    height: 30px;
+    width: 40px;
+}
+.imageDown {
+    
+    height: 30px;
+    width: 40px;
+}
+.accordion {
+margin-top: -8%;
+height: 30px;
+width: 80%;
+margin-left: 10%;
+
+
+}
+.accordion-button{
+color: #4CAF50;
+
+
+}
+
+ .accordion-header{
+    border: 2px  solid #0000;
+}
+
+

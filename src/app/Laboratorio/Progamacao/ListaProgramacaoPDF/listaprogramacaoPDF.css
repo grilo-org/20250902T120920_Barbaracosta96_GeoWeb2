@@ -1,0 +1,101 @@
+.icone-acao{
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.red{
+    color: rgb(194, 74, 74);
+}
+
+.col-acao{
+    width: 80px;
+}
+
+
+
+.th1 {
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 0.2px solid #D0E4F5;
+    padding: 3px 1%;
+    
+  }
+  .th2 {
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+    padding: 3px 1px;
+    
+  }
+  .th3 {
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+    padding: 3px 1px;
+    
+  }
+  
+  table.blueTable {
+    border: 1px solid #000000;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.blueTable td, table.blueTable th {
+    border: 1px solid #000000;
+    padding: 3px 2px;
+  }
+  table.blueTable tbody td {
+    font-size: 13px;
+    color: #333333;
+  }
+  table.blueTable tr:nth-child(even) {
+    background: #EEEEEE;
+  }
+  table.blueTable td:nth-child(even) {
+    background: #FFFFFF;
+  }
+  table.blueTable thead {
+    background: #3ebf52;
+    background: -moz-linear-gradient(top, #3ebf52 100%);
+    background: -webkit-linear-gradient(top, #3ebf52 100%);
+    background: linear-gradient(to bottom, #3ebf52 100%);
+    border-bottom: 2px solid #444444;
+  }
+  table.blueTable thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #000000;
+  }
+  table.blueTable thead th:first-child {
+    border-left: none;
+  }
+  
+  table.blueTable tfoot {
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #D0E4F5;
+    background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    border-top: 2px solid #444444;
+  }
+  table.blueTable tfoot td {
+    font-size: 14px;
+  }
+  table.blueTable tfoot .links {
+    text-align: right;
+  }
+  table.blueTable tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }

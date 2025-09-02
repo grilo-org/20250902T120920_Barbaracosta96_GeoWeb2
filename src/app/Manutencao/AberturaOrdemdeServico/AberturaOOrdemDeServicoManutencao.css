@@ -1,0 +1,19 @@
+
+.colorInput{
+    background-color:  #FCF8F8;
+}
+.bbb{
+    margin-right: 300px;
+}
+
+.resize{
+    resize:none
+}
+ 
+@media  (max-width: 1800px){
+    
+.bbb{
+    margin-right: 100px;
+}
+}
+

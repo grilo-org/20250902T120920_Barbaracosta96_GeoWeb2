@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #3EBF52;
+    
+}
+
+.navbar .logout {
+    cursor: pointer;
+}
+.logout1{
+margin-top: 'auto';
+font-size: 20px;
+font-weight: bolder;
+
+}

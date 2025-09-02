@@ -1,0 +1,63 @@
+.titulo {
+    margin-top: 80px;
+}
+
+.navbar{
+    background-color: #3EBF52;
+    
+}
+
+.navbar .logout {
+    cursor: pointer;
+}
+.logotipo{
+margin-left: 1em;
+
+}
+ 
+
+.tminput{
+
+    width: 600px;
+
+}
+
+
+.tminput2{
+
+    width: 200px;
+    
+
+}
+
+.forma1{ border: 0px;
+    background-color: aliceblue;
+    height: 35px;
+    cursor: pointer;
+
+}
+
+.titulo1{
+    margin-top: 85px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.table{ width:100%;}
+.box{
+    border-color: #00460d;
+   
+    border-style: dotted;
+}
+  
+  select{
+    border-color: #000000;
+    padding: 10px 20px;
+    border-radius:5px;
+  }
+  
+  select:focus{
+    outline:none;
+  }

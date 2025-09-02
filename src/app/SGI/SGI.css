@@ -1,0 +1,95 @@
+.titulo {
+    margin-top: 80px;
+}
+
+.btn-cli {
+    margin-right: 15px;
+}
+
+.titulolaboratorio {
+    text-align: center;
+    margin-top: 85px;
+    font-weight: bold;
+
+}
+
+.texttitulo {
+
+    color: #3EBF52;
+}
+
+.mb3 {
+    margin-top: 10px;
+text-align: center;
+}
+.mb34 {
+margin-top: 25px;
+text-align: center;
+font-weight: bolder;
+}
+.pprocesso{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.tamos {
+    text-align: center;
+    margin-top: 110px;
+    font-weight: bolder;
+}
+
+.pamostra {
+   
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+
+.btn1{
+    margin-top: 2%;
+margin-left: auto;
+margin-right: auto;
+font-family: Roboto, sans-serif;
+font-weight: 0;
+font-size: 14px;
+color: #fff;
+background-color: #18ab29;
+padding: 10px 61px;
+border: solid #18ab29 2px;
+box-shadow: #18ab29 0px 0px 0px 0px;
+border-radius: 50px;
+transition : 800ms;
+transform: translateY(0);
+display: flex;
+flex-direction:row-reverse;
+align-items: center;
+cursor: pointer;
+text-transform: uppercase;
+}
+
+.btn1:hover{
+
+transition : 800ms;
+padding: 10px 50px;
+transform : translateY(-0px);
+background-color: #fff;
+color: #18ab29;
+border: solid 2px #18ab29;
+}
+
+.css-input {
+    width: 50em;
+    padding: 5px;
+    font-size: 18px;
+    border-width: 1px;
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #000000;
+    border-style: solid;
+    border-radius: 0px;
+   font-weight: bolder;
+   
+    text-align: center;
+}
+.css-input:focus {
+    outline:none;
+}

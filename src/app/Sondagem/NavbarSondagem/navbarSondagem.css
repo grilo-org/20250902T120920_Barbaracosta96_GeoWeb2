@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #3EBF52;
+    
+}
+
+.navbar .logout {
+    cursor: pointer;
+}
+.logotipo{
+margin-left: 1em;
+
+}

@@ -1,0 +1,74 @@
+.btnlista{
+    margin-top: 2%;
+margin-left: auto;
+margin-right: auto;
+font-family: Roboto, sans-serif;
+font-weight: 0;
+font-size: 14px;
+color: #fff;
+background-color: #18ab29;
+padding: 10px 115px;
+border: solid #18ab29 2px;
+box-shadow: #18ab29 0px 0px 0px 0px;
+border-radius: 50px;
+transition : 800ms;
+transform: translateY(0);
+display: flex;
+flex-direction:row-reverse;
+align-items: center;
+cursor: pointer;
+text-transform: uppercase;
+}
+.btnlista:hover{
+
+transition : 800ms;
+padding: 10px 80px;
+transform : translateY(-0px);
+background-color: #fff;
+color: #18ab29;
+border: solid 2px #18ab29;
+}
+
+.button {
+    backface-visibility: hidden;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  background: #2eac0f;
+  border-radius: 100px;
+  border: 1px solid rgba(10.559837568472313%,83.03729838709677%,12.314785762891036%,0.956);
+  border-width: 1px 1px 1px 1px;
+  padding: 10px 20px 10px 20px;
+  box-shadow: inset 0px 1px 0px rgba(255,255,255,1),0px 1px 3px rgba(0,0,0,0.3);
+    color: #fff;
+  font-size: 16px;
+  font-family: Helvetica Neue;
+  font-weight: 900;
+  font-style: normal;
+  text-shadow: 0px -1px 0px rgba(0,0,0,0.4)
+  }
+  .button > div {
+    color: #999;
+  font-size: 10px;
+  font-family: Helvetica Neue;
+  font-weight: initial;
+  font-style: normal;
+  text-align: center;
+  margin: 0px 0px 0px 0px
+  }
+  .button > i {
+    font-size: 1em;
+  border-radius: 0px;
+  border: 0px solid transparent;
+  border-width: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  position: static
+  }
+  .button > .ld {
+    font-size: initial
+  }
+  .borderr{ border: 0px;
+  background-color: rgb(220, 238, 243);
+  }

@@ -1,0 +1,38 @@
+/*  .scrollable {
+    max-height: 350px; 
+    overflow-y: auto; 
+  
+  }  */
+
+  .scrollable2 {
+    max-height: 250px; 
+    overflow-y: auto; 
+  }
+
+  .scrollable {
+    max-height: 350px; 
+    overflow-y: auto; 
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.2) rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilize a barra de scroll */
+  .scrollable::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  /* Estilize o fundo da barra de scroll */
+  .scrollable::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilize o indicador da posição atual na barra de scroll */
+  .scrollable::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+  }
+  
+  /* Estilize o indicador quando hover na barra de scroll */
+  .scrollable::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+  }

@@ -1,0 +1,91 @@
+h1, h2, h3, h4, h5{
+    line-height: 1.5;
+}
+
+p{
+    color: #8b8b8b;
+}
+
+#root{
+    height: 95vh;
+}
+
+
+/* NAVBAR */
+
+.navbar{
+    background-color: #0d6e;
+}
+
+
+/* BANNER */
+
+#banner{
+    background-color: #0d6e;
+    color: #ffffff;
+    padding: 100px 0 70px 0;
+}
+
+#banner img{
+    width: 100%;
+}
+
+.btn-banner{
+    margin: 8% 3% 5% 0;
+}
+
+/* FEATURES */
+
+#features{
+    padding: 7% 5%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.icon{
+    color: #0d6e;
+    margin-bottom: 15px;
+}
+
+
+/* TESTEMUNHOS */
+
+#corrusel{
+    background-color: #000000;
+  
+}
+
+.d-block {
+    border-radius: 100%;
+    width: 50%;
+    margin: 20px;
+    height: 10%;
+}
+
+
+/* PRECOS */
+
+#preco .titulo{
+    margin-top: 5%;
+}
+
+#preco{
+    padding: 5% 15% 8%;
+    color: #323338;
+}
+
+
+/* FOOTER */
+
+#footer{
+    padding: 3% 15%;
+    text-align: center;
+    background-color: #f3f3f3;
+}
+#logotipo{
+    height:1em
+
+}

@@ -1,0 +1,71 @@
+.form-container{
+    height: 100vh;
+}
+
+.form-signin{
+    width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+.form-signin input[type="password"] {
+margin-bottom: 10px;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+}
+
+.login-links a{
+    text-decoration: none;
+    font-size: 10pt;
+}
+.mb-4{
+    margin: -80px;
+    width: 400px;
+}
+.mb-5{
+    margin-left: auto;
+    width: 120px;
+}
+.Tnormal{
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+
+}
+.btnlogin{
+    margin-top: 2%;
+margin-left: auto;
+margin-right: auto;
+font-family: Roboto, sans-serif;
+font-weight: 0;
+font-size: 14px;
+color: #fff;
+background-color: #18ab29;
+padding: 10px 115px;
+border: solid #18ab29 2px;
+box-shadow: #18ab29 0px 0px 0px 0px;
+border-radius: 50px;
+transition : 800ms;
+transform: translateY(0);
+display: flex;
+flex-direction:row-reverse;
+align-items: center;
+cursor: pointer;
+text-transform: uppercase;
+}
+
+.btnlogin:hover{
+
+transition : 800ms;
+padding: 10px 80px;
+transform : translateY(-0px);
+background-color: #fff;
+color: #18ab29;
+border: solid 2px #18ab29;
+}

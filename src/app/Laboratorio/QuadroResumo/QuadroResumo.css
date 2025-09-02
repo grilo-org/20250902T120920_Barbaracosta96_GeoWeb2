@@ -1,0 +1,52 @@
+.form1{
+    margin-left: 40% ;
+
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  
+    
+  }
+  .table-td{
+    word-wrap:break-word;
+  }  
+  .fixTableHead {
+    overflow-y: auto;
+    height: 610px;
+  }
+  .fixTableHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  table {
+    border-collapse: collapse;        
+    width: 100%;
+  }
+  th,
+  td {
+    padding: 8px 15px;
+    border: 2px solid #529432;
+  }
+  th {
+    background: #3EBF52;
+  }

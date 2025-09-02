@@ -1,0 +1,86 @@
+.colorInput{
+    background-color:  #FCF8F8;
+}
+.colorInput2{
+    background-color:  #cc2121;
+}
+
+.cinza{
+    background-color: gray;
+}
+.cinzaclaro{
+    background-color: #E9E7E7;
+}
+.botaao{
+    border: 0px;
+}
+
+.borda {
+    border: 1px solid rgb(4, 117, 28);   
+    
+  }
+
+  #carouselExampleFade {
+    width: 100%;   
+  }
+  .arredondar{
+    border-radius: 7%;
+  }
+  .botaao:hover{
+    color: rgb(4, 117, 28);
+}
+
+.borda:hover {
+    border: 2px solid rgb(4, 117, 28);  
+    border-color: rgb(4, 117, 28); 
+    
+   
+  }
+  .black{
+color: black;
+  }
+
+
+  .botaoadicionarRed{
+    
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background-color: #e23906;
+    padding: 10px 50px;
+    border: solid #e23906 2px;
+    box-shadow: #e23906 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition : 800ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction:row-reverse;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+
+}
+
+.botaoadicionarRed:hover{
+
+  transition : 800ms;
+  padding: 10px 80px;
+  transform : translateY(-0px);
+  background-color: #fff;
+  color: #e23906;
+  border: solid 2px#e23906;
+  }
+
+
+ 
+
+
+.vermelho{box-shadow: inset 2px 2px 4px red;}
+.verde{box-shadow: inset 2px 2px 4px green}
+.azul{box-shadow: inset 2px 2px 4px blue}
+.preto{box-shadow: inset 2px 2px 2px 2px black}
+.roxo{box-shadow: inset 2px 2px 4px rgb(174, 0, 255);}
